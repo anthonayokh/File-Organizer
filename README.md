@@ -7,6 +7,6 @@ Save the script as organizer.py
 
 Open terminal in script location
 
-Run: python organizer.py
+Run: python sort_file.py
 
 Type 'y' to start organizing
