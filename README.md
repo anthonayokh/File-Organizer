@@ -3,10 +3,10 @@ Your "Downloads" folder is a mess of PDFs, Images, and Installer, this PY will h
 Automatically organizes your messy Downloads folder by file type. Moves PDFs to Documents, images to Images, installers to Programs, etc.
 
 🚀 Quick Start
-Save the script as organizer.py
+Save the script as sort_files.py
 
 Open terminal in script location
 
-Run: python sort_file.py
+Run: python sort_files.py
 
 Type 'y' to start organizing
