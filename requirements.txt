@@ -1,0 +1,11 @@
+# Requirements for File Organizer
+# This script uses only Python's standard library - no external packages needed!
+
+# Required: Python 3.6 or higher
+# Built-in modules used:
+# - os
+# - shutil
+# - pathlib (available from Python 3.4+)
+
+# No pip install required!
+# Just run: python organizer.py
